@@ -1,1 +1,2 @@
 # Bezier - Trabajo Final
+Pida el ingreso de *n* puntos en el plano (n [3,8]) y determine la curva de Beziér de oden *n* asociada a dichos puntos. Además, muestre una animación de cómo se obtiene dicha curva.

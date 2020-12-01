@@ -7,7 +7,7 @@ def fact(n):
     else:
         return n*fact(n-1)
 
-# Funcion combinacional
+# Funcion combinatoria
 def comb(n, r):
     return fact(n)/(fact(n-r)*fact(r))
 
